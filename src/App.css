@@ -1,9 +1,8 @@
 .container {
-  width: 1200px;
-  margin: 0 auto;
-  padding-left: 15px;
-  padding-right: 15px;
-  box-shadow: 0 4px 4px rgb(0 0 0 / 25%);
-  border-radius: 6px;
-  overflow: hidden;
+  background-color: #00FFFF;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 30px;
+    text-align: center;
+    border: 1px solid black;
 }
