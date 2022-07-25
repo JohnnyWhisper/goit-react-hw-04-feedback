@@ -1,11 +1,9 @@
 import { useState } from 'react';
-import Section from 'components/Section/Section';
-import Statistics from 'components/Statistics/Statistics';
-import FeedbackOptions from 'components/FeedbackOptions/FeedbackOptions';
-import Notification from 'components/Notification/Notification';
-import 'components/App/App.module.css';
-
-
+import './App.css';
+import Section from './components/Section/Section';
+import FeedbackOptions from './components/FeedbackOptions/FeedbackOptions';
+import Notification from './components/Notification/Notification';
+import Statistics from './components/Statistics/Statistics';
 
 const App = () => {
   const options = ['good', 'neutral', 'bad'];
