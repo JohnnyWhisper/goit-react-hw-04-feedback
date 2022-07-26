@@ -3,6 +3,7 @@
   display: flex;
   border-radius: 4px;
   text-align: center;
+  list-style: none;
 }
 .Item {
   text-align: center;
